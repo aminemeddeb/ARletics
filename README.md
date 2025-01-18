@@ -1,6 +1,6 @@
-ARletics 
+# ARletics
 
-1. Project Overview
+## 1. Project Overview
 
 • Description: A brief summary of your project, its purpose, and the problem it addresses.
 
@@ -8,7 +8,7 @@ ARletics
 
 
 
-2. Features
+## 2. Features
 
 
 List the main features or functionalities of your project:
@@ -20,7 +20,7 @@ List the main features or functionalities of your project:
 • Feature 3: [Brief description]
 
 
-3. Technology Stack
+## 3. Technology Stack
 
 Outline the technologies, tools, and frameworks used in the project:
 
@@ -34,7 +34,7 @@ Outline the technologies, tools, and frameworks used in the project:
 
 
 
-4. Installation and Usage
+## 4. Installation and Usage
 
 Prerequisites
 
@@ -72,7 +72,7 @@ npm start
 
 
 
-5. Usage Instructions
+## 5. Usage Instructions
 
 
 Explain how to use the project after setup:
@@ -85,7 +85,7 @@ Explain how to use the project after setup:
 
 
 
-6. Demo
+## 6. Demo
 
 
 Provide a link to a live demo or screenshots/gifs of your project in action:
@@ -96,7 +96,7 @@ Provide a link to a live demo or screenshots/gifs of your project in action:
 
 
 
-7. Team Members
+## 7. Team Members
 
 • Name 1: Role (e.g., Frontend Developer)
 
@@ -106,7 +106,7 @@ Provide a link to a live demo or screenshots/gifs of your project in action:
 
 
 
-8. Challenges Faced
+## 8. Challenges Faced
 
 • Briefly list the main challenges encountered during the project.
 
@@ -114,7 +114,7 @@ Provide a link to a live demo or screenshots/gifs of your project in action:
 
 
 
-9. Future Improvements
+## 9. Future Improvements
 
 
 
@@ -126,7 +126,7 @@ Outline features or enhancements you plan to add post-hackathon:
 
 
 
-10. License
+## 10. License
 
 
 
@@ -134,7 +134,7 @@ Mention the license under which your project is shared (e.g., MIT License):
 
 
 
-MIT License
+###  MIT License
 
 Copyright (c) [Year] [Your Name/Team Name]
 
@@ -142,7 +142,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 
-11. Acknowledgments
+## 11. Acknowledgments
 
 • Thank your mentors, sponsors, or any resources/tools that helped in the project.
-# ARletics
